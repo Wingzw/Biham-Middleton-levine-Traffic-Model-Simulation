@@ -1,0 +1,10 @@
+Package: BMLGrid
+Type: Package
+Title: Biham-Middleton-levine Traffic Model Simulation
+Version: 1.0
+Date: 2015-05-13
+Author: Zhewen Shi
+Maintainer: Zhewen Shi <zwshi@ucdavis.edu>
+Description: Simulate BML Traffic Model using both C and R, plot and summary a BML grid
+License: GPL-2
+Depends: RUnit

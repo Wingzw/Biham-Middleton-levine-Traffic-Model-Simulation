@@ -1,0 +1,12 @@
+import(RUnit)
+S3method(plot, BML)
+S3method(summary, BML)
+export(createBMLGrid)
+export(runBMLGrid)
+export(crunBMLGrid)
+export(crunBMLGrid2)
+export(moveCars)
+export(cmoveCars)
+export(cmoveCars2)
+
+useDynLib(BMLGrid)
